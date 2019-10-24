@@ -6,7 +6,7 @@ Created on Fri Sep 29 19:35:19 2017
 Python RFM95/96/97/w library for Raspberry Pi. Adapted from RadioHead by Airspayce.
 
 
-@author: mark ransley
+@author: markrans
 """
 
 import spidev
